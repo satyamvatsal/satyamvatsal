@@ -7,9 +7,9 @@
 - 🎓 **CSE Student** at MANIT Bhopal  
 - 💻 **Competitive Programmer** | Problem Solver  
 - 🌍 **Web Developer** | Building full-stack apps  
-- 🔒 Interested in **Cybersecurity & Cryptography**  
+- 🔒 Interested in **Linux & Raspberry Pi**  
 - 🌱 Currently learning **React Native & P2P Messaging**  
-- 💡 Exploring **Blockchain & Cryptography**  
+- 💡 Exploring **Self hosting through Cloudflare**  
 
 ---
 
@@ -25,12 +25,12 @@
 
 ### 🛠 Full-Stack Projects  
 - **[Amazon Price Tracker](https://github.com/satyamvatsal/price-tracker)** (PostgreSQL, Express, React, React Native)  
-- **[Short URL Service](https://github.com/satyamvatsal/short-url)** (Node.js, Express)  
-- **[MentorConnect](https://github.com/satyamvatsal/mentorconnect)** (AI-driven mentoring platform)  
+- **[Short URL Service](https://github.com/satyamvatsal/url-shortner)** (Node.js, Express)  
+- **[MentorConnect](https://github.com/satyamvatsal/Owltype)** (Typing Test tool, React.JS)  
 
 ### 🏆 Competitive Programming  
-- **[Codeforces Solutions](https://github.com/satyamvatsal/cp-solutions)**  
-- **[LeetCode Profile](https://leetcode.com/satyamvatsal/)**  
+- **[Codeforces Profile](https://codeforces.com/profile/satyamvatsal257)**  
+- **[LeetCode Profile](https://leetcode.com/u/satyamvatsal257/)**  
 
 ---
 
@@ -38,7 +38,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyamvatsal/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-satyamvatsal.me-blue?style=for-the-badge)](https://satyamvatsal.me)  
-[![Email](https://img.shields.io/badge/Email-vatsalsatyam123@gmail.com-red?style=for-the-badge)](mailto:vatsalsatyam123@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-vatsalsatyam123@gmail.com-red?style=for-the-badge)](mailto:satyamvatsal257@gmail.com)  
 
 ---
 
