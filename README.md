@@ -8,7 +8,7 @@
 - 💻 **Competitive Programmer** | Problem Solver  
 - 🌍 **Web Developer** | Building full-stack apps  
 - 🔒 Interested in **Linux & Raspberry Pi**  
-- 🌱 Currently learning **React Native & P2P Messaging**  
+- 🌱 Currently learning **React Native & E2EE Messaging**  
 - 💡 Exploring **Self hosting through Cloudflare**  
 
 ---
@@ -24,9 +24,10 @@
 ## 🔥 My Projects  
 
 ### 🛠 Full-Stack Projects  
+- **[ChefTalk](https://github.com/satyamvatsal/chat-app)** (Realtime Chat Application, Express, React, E2EE)  
 - **[Amazon Price Tracker](https://github.com/satyamvatsal/price-tracker)** (PostgreSQL, Express, React, React Native)  
-- **[Short URL Service](https://github.com/satyamvatsal/url-shortner)** (Node.js, Express)  
-- **[MentorConnect](https://github.com/satyamvatsal/Owltype)** (Typing Test tool, React.JS)  
+- **[Live Quiz App](https://github.com/satyamvatsal/quiz-backend)** (Node.js, Express, Redis,)  
+
 
 ### 🏆 Competitive Programming  
 - **[Codeforces Profile](https://codeforces.com/profile/satyamvatsal257)**  
