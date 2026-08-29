@@ -45,7 +45,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyamvatsal/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-satyamvatsal.ovh-blue?style=for-the-badge)](https://satyamvatsal.ovh)  
-[![Email](https://img.shields.io/badge/Email-satyamvatsal257@gmail.com-red?style=for-the-badge)](mailto:satyamvatsal257@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-satyam%40satyamvatsal.ovh-red?style=for-the-badge)](mailto:satyam@satyamvatsal.ovh)  
 
 ---
 
