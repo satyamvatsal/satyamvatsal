@@ -38,7 +38,7 @@
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyamvatsal/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-satyamvatsal.me-blue?style=for-the-badge)](https://satyamvatsal.me)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-satyamvatsal.ovh-blue?style=for-the-badge)](https://satyamvatsal.ovh)  
 [![Email](https://img.shields.io/badge/Email-satyamvatsal257@gmail.com-red?style=for-the-badge)](mailto:satyamvatsal257@gmail.com)  
 
 ---
@@ -48,4 +48,4 @@ I run my own **self-hosted website** on a Raspberry Pi! 🚀
 
 ---
 
-⭐️ *If you like my work, consider starring my repositories!*  
+⭐️ *If you like my work, consider starring my repositories!*
