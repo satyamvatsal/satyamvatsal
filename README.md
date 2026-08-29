@@ -15,8 +15,8 @@
 
 ## 📊 My GitHub Stats  
 
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamvatsal&show_icons=true&theme=github_dark&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamvatsal&layout=compact&theme=github_dark&langs_count=8)  
+![Satyam's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satyamvatsal&theme=github_dark)  
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyamvatsal&theme=github_dark)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=satyamvatsal&theme=github-dark)  
 
 ---
