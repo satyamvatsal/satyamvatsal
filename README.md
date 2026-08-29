@@ -37,7 +37,7 @@
 
 ### 🏆 Competitive Programming  
 - **[Codeforces Profile](https://codeforces.com/profile/satyamvatsal257)**  
-- **[LeetCode Profile](https://leetcode.com/u/satyamvatsal257/)**  
+- **[LeetCode Profile](https://leetcode.com/u/satyamvatsal/)**  
 
 ---
 
