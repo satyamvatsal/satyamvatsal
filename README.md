@@ -23,11 +23,17 @@
 
 ## 🔥 My Projects  
 
-### 🛠 Full-Stack Projects  
-- **[ChefTalk](https://github.com/satyamvatsal/chat-app)** (Realtime Chat Application, Express, React, E2EE)  
-- **[Amazon Price Tracker](https://github.com/satyamvatsal/price-tracker)** (PostgreSQL, Express, React, React Native)  
-- **[Live Quiz App](https://github.com/satyamvatsal/quiz-backend)** (Node.js, Express, Redis,)  
+### 🛠 Systems & Infrastructure (Go)  
+- **[go-code-execution](https://github.com/satyamvatsal/go-code-execution)** — Multi-language sandboxed code execution service in Go. Worker pool, nsjail + seccomp isolation, Redis caching.  
+- **[dnscache](https://github.com/satyamvatsal/dnscache)** — Ultra-fast DNS caching server in Go with LRU + TTL caching, ~740µs average latency on cache hits.  
+- **[go-programs](https://github.com/satyamvatsal/go-programs)** — C++-style data structures (Queue, Stack, Vector, PriorityQueue, List) implemented in Go using generics.  
 
+### 🌐 Web & Full-Stack Projects  
+- **[Portfolio Website](https://github.com/satyamvatsal/portfolio-website)** — Responsive personal portfolio built with Express.js and EJS.  
+- **[Hostel Complaint Portal](https://github.com/satyamvatsal/hostel-complaint-portal)** — Node.js + Express + MongoDB complaint system for students and wardens, deployed on Azure with Nginx.  
+- **[ChefTalk](https://github.com/satyamvatsal/chat-app)** — Realtime End-to-End encrypted chat app (Express, React).  
+- **[Amazon Price Tracker](https://github.com/satyamvatsal/price-tracker)** — Cross-platform price tracking (PostgreSQL, Express, React, React Native).  
+- **[Live Quiz App](https://github.com/satyamvatsal/quiz-backend)** — Real-time quiz backend (Node.js, Express, Redis).  
 
 ### 🏆 Competitive Programming  
 - **[Codeforces Profile](https://codeforces.com/profile/satyamvatsal257)**  
